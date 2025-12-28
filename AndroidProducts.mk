@@ -5,5 +5,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cincai_lemonade.mk
+    $(LOCAL_DIR)/cincaiAndroid_lemonade.mk
 #    $(LOCAL_DIR)/lineage_lemonade.mk 
